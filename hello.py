@@ -1,4 +1,4 @@
-print('Hello, World!')
+print('learning git is fun')
 
 
 print('hi')
